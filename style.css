@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(228, 226, 223);
+}
+a{
+
+  color:blue;
+  text-decoration: none;
+  margin: 10px;
+  position: Top;    
+}
+
+table{
+    border-collapse: collapse;
+}
+
+#submit{
+    background-color: green;
+}
